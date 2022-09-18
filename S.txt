@@ -1,0 +1,5 @@
+S1	SMITH	20	Tianjin
+S2	JONES	10	Beijing
+S3	BLAKE	30	Beijing
+S4	CLARK	20	Tianjin
+S5	ADAMS	30	Shanghai
